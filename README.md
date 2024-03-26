@@ -14,4 +14,4 @@ I learned the basics of Wireshark and how to analyse protocols and PCAPs. Wiresh
 
 <h2>Topics Covered</h2>
 
-![image](https://github.com/craiglashley/craiglashley/assets/164884179/83434abb-e7ab-43f9-b265-5bcf372c0a64)
+![image](https://github.com/craiglashley/craiglashley/assets/164884179/d5e0d9cc-b4b6-4ffc-bdee-547efa8b2edb)
