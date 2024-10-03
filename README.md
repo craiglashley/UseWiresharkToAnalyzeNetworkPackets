@@ -5,6 +5,11 @@
 
 <p>Key highlights of this project include configuring optimal VM settings, capturing live network data, and analyzing protocols like HTTP, DNS, and ICMP. Screenshots and a detailed report are included to illustrate the steps and insights gained throughout the project. This project demonstrates my proficiency in network troubleshooting, packet-level analysis, and technical documentation, contributing to my professional cybersecurity portfolio.</p>
 
+<h2>Tasks</h2>
+1. HTTP Analysis  <br>
+2. DNS Analysis  <br>
+3. ICMP Capture  <br>
+<br />
 
 <h2>Project Skills</h2>
 - Kali Linux Installation and Configuration  <br>
@@ -113,3 +118,54 @@ http.request.method == "GET"
 <img src="https://github.com/user-attachments/assets/c0fc5c6f-0b23-435a-8319-adebe5f32f95" alt="Inspect GET requests to see how data is transmitted.">
 </p>
 
+<p align="center">
+12. Task 2 DNS Analysis: Filter by DNS.<br>   
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ea93847-4a4c-4280-a869-029c4ea8327a" alt="Task 2 DNS Analysis: Filter by DNS.">
+</p>
+
+<p align="center">
+13. Filter by specific domain name.<br>
+    
+```shell
+dns.qry.name == "example.com"
+```    
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/65986a60-1d1a-45b3-841f-95bed2ad9a24" alt="Filter by specific domain name.">
+</p>
+
+14. Filter by specific domain name.<br>
+    
+```shell
+dns.qry.name == "example.com"
+```    
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/65986a60-1d1a-45b3-841f-95bed2ad9a24" alt="Filter by specific domain name.">
+</p>
+
+<p align="center">
+15. Task 3 Use the ICMP capture filter and start capturing traffic<br>   
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/551adc3b-7b96-4d13-ba34-0b8ac3e50f25" alt="Task 3 Use the ICMP capture filter and start capturing traffic">
+</p>
+
+<p align="center">
+16. Use the ping command followed by an IP address or domain name.<br>   
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/990befbd-5dd7-485a-9e1e-8fd508ac0d89" alt="Use the ping command followed by an IP address or domain name.">
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1e108ed4-b0ef-43f5-8171-2c865d2915c5" alt="Use the ping command followed by an IP address or domain name.">
+</p>
+
+<p align="center">
+17. Click on any packet to view its details in the Packet Details pane, where you can see information like the type of ICMP message, sequence numbers, and other relevant data.<br>   
+</p>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/01f13532-9708-4ef6-a01d-354227a97a61" alt="Click on any packet to view its details in the Packet Details pane, where you can see information like the type of ICMP message, sequence numbers, and other relevant data.">
+</p>
